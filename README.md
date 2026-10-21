@@ -1,5 +1,7 @@
-# Hello Site
+# hello
 
-Minimalistic static website.
+A tiny static website published with GitHub Pages.
 
-The site source (index.html) is not available in this workspace yet. 
+Live site: https://smeethendre.github.io/hello/
+
+The site is served from `index.html` on the `main` branch.
